@@ -1,0 +1,8 @@
+.header {
+   height: 100px;
+   width: 100%;
+   display: inline;
+   padding: auto purple;
+   border-bottom: 60px #5a0202;
+   background-color: darkcyan;
+}
